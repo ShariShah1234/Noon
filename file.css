@@ -1,0 +1,17 @@
+.class1{
+    margin: 15px;
+}
+
+.dropdown-item{
+    margin: 15px;
+    text:center;
+}
+
+.carousel-item {
+  height: 100vh; 
+}
+.carousel-item img {
+  width: 100%;
+  height: 50%;
+  object-fit: cover; 
+}
